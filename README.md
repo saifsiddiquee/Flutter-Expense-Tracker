@@ -1,4 +1,4 @@
-# expence_tracker
+# expense_tracker
 
 A Flutter application to track daily expences
 
